@@ -8,8 +8,17 @@
 	<string.h>
 	<ctype.h>
 
-1635201051 source:c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\main.c
+1635204856 source:c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\main.c
 	<stdio.h>
 	<stdlib.h>
 	"inputs.h"
+	"hardcodeo.h"
+
+1635203850 c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\hardcodeo.h
+
+1635204886 source:c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\hardcodeo.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+	"hardcodeo.h"
 
