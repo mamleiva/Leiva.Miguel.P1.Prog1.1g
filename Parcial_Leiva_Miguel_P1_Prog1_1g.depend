@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1635182430 source:c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\inputs.c
+	"inputs.h"
+
+1635182418 c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\inputs.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+
+1635201051 source:c:\users\martinl\documents\utn\1er-cutrimestre\programacion\codigo\codeblocks\parcial_programacion_lunes\parcial_leiva_miguel_p1_prog1_1g\main.c
+	<stdio.h>
+	<stdlib.h>
+	"inputs.h"
+
